@@ -1,3 +1,21 @@
+---
+title: "Phân Tích Thị Trường Tài Chính Việt Nam 2026"
+source: "[[Tavily Search API]], [[Trading Economics]], [[Vietnam Investment Review]]"
+author:
+  - "[[Culi]]"
+created: 2026-05-01
+description: Phân tích toàn diện thị trường chứng khoán, vàng, USD/VND, lãi suất và hàng hóa tại Việt Nam năm 2026, kèm khuyến nghị phân bổ tài sản
+tags:
+  - investment
+  - vietnam-market
+  - stock-market
+  - gold
+  - forex
+  - asset-allocation
+  - financial-analysis
+  - 2026
+---
+
 # Phân Tích Thị Trường Tài Chính Việt Nam 2026
 
 **Ngày cập nhật:** 01/05/2026
