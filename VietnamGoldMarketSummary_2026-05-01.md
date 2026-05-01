@@ -1,5 +1,16 @@
-# Vietnam Gold Market Summary - May 1, 2026
-
+---
+title: "Vietnam Gold Market Summary - May 1, 2026"
+source: "[[VietnamStockMarketSummary]]"
+author:
+  - "[[bta]]"
+created: 2026-05-01
+description: Summary of Vietnam gold market prices and trends as of May 1, 2026
+tags:
+  - gold
+  - vietnam
+  - market
+  - may-2026
+---
 ## Domestic Gold Prices (SJC)
 - **Buy Price:** 163.0 million VND/tael
 - **Sell Price:** 166.0 million VND/tael
