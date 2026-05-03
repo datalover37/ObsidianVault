@@ -1,6 +1,21 @@
+---
+title: "Chuẩn Bị Đón Bé Minh Chào Đời"
+source: "[[Tavily Research]]"
+author:
+  - "[[Tim]]"
+created: 2026-05-03
+description: Hướng dẫn đầy đủ về thủ tục giấy tờ, chụp ảnh lưu niệm và checklist chuẩn bị cho người cha khi đón bé chào đời trong 12-24h tới
+tags:
+  - gia-đình
+  - sinh-con
+  - thủ-tục
+  - khai-sinh
+  - chụp-ảnh
+  - checklist
+---
+
 # Chuẩn Bị Đón Bé Minh Chào Đời
 
-**Ngày tạo:** 2026-05-03  
 **Dự kiến sinh:** 12-24h tới  
 **Người cha:** Tim
 
